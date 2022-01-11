@@ -66,4 +66,10 @@ public class Restaurant {
         return name;
     }
 
+    public totalOrderCost(String itemName){
+        
+        int price = 0;
+
+    }
+
 }
